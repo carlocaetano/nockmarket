@@ -1,0 +1,5 @@
+node_modules
+dnode
+.DS_Store
+err.log
+out.log
